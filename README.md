@@ -55,6 +55,9 @@
 
 [数据库Pass解密](https://github.com/Rvn0xsy/PassDecode-jar)
 
+## Apache
+[CVE-2021-41773 | CVE-2021-42013 漏洞利用工具 (Apache/2.4.49-2.4.50)](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit)
+
 ## Apache APISIX
 
 [CVE-2022-24112 Apache APISIX apisix/batch-requests RCE](https://github.com/Mr-xn/CVE-2022-24112/blob/main/CVE-2022-24112.yaml)
@@ -149,6 +152,8 @@
 
 [Ares-X/shiro-exploit](https://github.com/Ares-X/shiro-exploit)
 
+[shiro 反序列 命令执行辅助检测工具](https://github.com/wyzxxz/shiro_rce_tool)
+
 ## Spring
 
 [CVE-2022-22947 Spring Cloud Gateway 远程代码执行漏洞复现](https://mp.weixin.qq.com/s/5ZBpVTofGpG_ssz2iPeI2A)
@@ -198,6 +203,8 @@
 [适用于weblogic和Tomcat的无文件的内存马](https://github.com/keven1z/weblogic_memshell)
 
 [Weblogic漏洞检测](https://github.com/0nise/weblogic-framework)
+
+[CVE-2018-3245-PoC](https://github.com/pyn3rd/CVE-2018-3245)
 
 ## Zabbix
 
