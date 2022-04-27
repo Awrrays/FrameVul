@@ -47,7 +47,7 @@
 
 ## Apache Kylin
 
-[CVE-2021-45456 apache kylin命令执行](https://github.com/Awrrays/Awrrays-Team-VulLab/blob/main/Middleware/apache/Apache Kylin/CVE-2021-45456.md)
+[CVE-2021-45456 apache kylin命令执行](https://github.com/Awrrays/Awrrays-Team-VulLab/blob/main/Middleware/apache/Apache%20Kylin/CVE-2021-45456.md)
 
 ## Coremail
 
