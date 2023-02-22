@@ -60,7 +60,7 @@
 
 [泛微e-cology另一接口任意文件上传(已修复)](https://mp.weixin.qq.com/s/nRnNyFfDQYxmFwA-7-IBVQ)
 
-[OfficeServer 文件上传](https://github.com/sobinge/2022-HW-POC/blob/main/泛微OA uploaderOperate.jsp 文件上传.md)
+[OfficeServer 文件上传](https://github.com/sobinge/2022-HW-POC/blob/main/泛微OA%20uploaderOperate.jsp%20文件上传.md)
 
 [E-office Server_v9.0 漏洞分析](https://mp.weixin.qq.com/s/JP-kIsWeQ0HZPs9jZjL24A)
 
