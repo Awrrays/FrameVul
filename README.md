@@ -50,7 +50,7 @@
 
 [ecology8_mobile_sql_inject](https://github.com/orleven/Tentacle/blob/6e1cecd52b10526c4851a26249339367101b3ca2/script/ecology/ecology8_mobile_sql_inject.py)
 
-[泛微E-Cology WorkflowServiceXml RCE](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/泛微OA/泛微E-Cology WorkflowServiceXml RCE.html?h=泛微E-Cology WorkflowServiceXml RCE)
+[泛微E-Cology WorkflowServiceXml RCE](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/泛微OA/泛微E-Cology%20WorkflowServiceXml%20RCE.html?h=泛微E-Cology WorkflowServiceXml RCE)
 
 [泛微OA weaver.common.Ctrl 任意文件上传漏洞](https://mp.weixin.qq.com/s/ePYRFPfu-pvWMKSiffporA)
 
@@ -78,7 +78,7 @@
 
 ## 华天动力-OA
 
-- [CVE-2021-45897 全球最大CRM系统SuiteCRM远程命令执行漏洞分析与复现](https://mp.weixin.qq.com/s/KVVgiECEr7ivBfXnByi5RQ)
+[CVE-2021-45897 全球最大CRM系统SuiteCRM远程命令执行漏洞分析与复现](https://mp.weixin.qq.com/s/KVVgiECEr7ivBfXnByi5RQ)
 
 ## 蓝凌OA
 
