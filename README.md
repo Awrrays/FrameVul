@@ -50,7 +50,7 @@
 
 [ecology8_mobile_sql_inject](https://github.com/orleven/Tentacle/blob/6e1cecd52b10526c4851a26249339367101b3ca2/script/ecology/ecology8_mobile_sql_inject.py)
 
-[泛微E-Cology WorkflowServiceXml RCE](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/泛微OA/泛微E-Cology%20WorkflowServiceXml%20RCE.html?h=泛微E-Cology WorkflowServiceXml RCE)
+[泛微E-Cology WorkflowServiceXml RCE](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/泛微OA/泛微E-Cology%20WorkflowServiceXml%20RCE.html?h=泛微E-Cology%20WorkflowServiceXml%20RCE)
 
 [泛微OA weaver.common.Ctrl 任意文件上传漏洞](https://mp.weixin.qq.com/s/ePYRFPfu-pvWMKSiffporA)
 
