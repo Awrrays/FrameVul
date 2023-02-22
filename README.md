@@ -16,9 +16,9 @@
 
 ## 宝塔
 
-- [宝塔面板Windows版提权方法](https://github.com/Hzllaga/BT_Panel_Privilege_Escalation) 
+[宝塔面板Windows版提权方法](https://github.com/Hzllaga/BT_Panel_Privilege_Escalation) 
 
-- [宝塔linux面板 <6.0 存储形xss](https://mp.weixin.qq.com/s/gtYyyhye90ZPILWCGsGKGQ)
+[宝塔linux面板 <6.0 存储形xss](https://mp.weixin.qq.com/s/gtYyyhye90ZPILWCGsGKGQ)
 
 ## 钉钉
 
