@@ -922,6 +922,10 @@ app="海洋CMS"
 
 [struts2绕过waf读写文件及另类方式执行命令](https://f0ng.github.io/2022/04/14/struts2绕过waf读写文件及另类方式执行命令/)
 
+[Struts2漏洞扫描 Burp插件](https://github.com/novysodope/ST2Scanner)
+
+[一款检测Struts2 RCE漏洞的burp被动扫描插件，仅检测url后缀为.do以及.action的数据包](https://github.com/x1a0t/Struts2Burp)
+
 ## ThinkAdmin
 
 [ThinkAdminV6 未授权访问and 任意文件查看 漏洞复现](https://blog.csdn.net/Adminxe/article/details/108744912)
