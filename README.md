@@ -716,7 +716,7 @@ maccms10\extend\Qcloud\Sms\Sms.php
 
 [容器与云的碰撞——一次对MinIO的测试](https://cloud.tencent.com/developer/article/1785462)
 
-[(CVE-2023-28432) | MinIO verify 接口敏感信息泄露漏洞]([https://cloud.tencent.com/developer/article/1785462](https://mp.weixin.qq.com/s?__biz=MzkyMjE3MjEyNQ==&mid=2247486024&idx=1&sn=505829c79bc3bdc2b6598cdaf104666b&chksm=c1f925faf68eacec10fbc833c87f8f95578ebe0cd86b9d54690d471fd1d10eb44bf145d6be6a))
+[(CVE-2023-28432) | MinIO verify 接口敏感信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMjE3MjEyNQ==&mid=2247486024&idx=1&sn=505829c79bc3bdc2b6598cdaf104666b&chksm=c1f925faf68eacec10fbc833c87f8f95578ebe0cd86b9d54690d471fd1d10eb44bf145d6be6a)
 
 https://github.com/minio/console/security/advisories/GHSA-4999-659w-mq36
 
