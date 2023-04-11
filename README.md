@@ -622,6 +622,10 @@ https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-12149
 
 [JBoss JMXInvokerServlet 反序列化漏洞](https://github.com/vulhub/vulhub/blob/master/jboss/JMXInvokerServlet-deserialization/README.md)
 
+## JeecgBoot
+
+[jmreport/qurestSql 未授权SQL注入批量扫描poc](https://github.com/MzzdToT/CVE-2023-1454)
+
 ## Jetty
 
 https://github.com/vulhub/vulhub/blob/master/jetty/CVE-2021-28169/README.zh-cn.md
