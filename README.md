@@ -92,7 +92,6 @@
 
 [蓝凌 OA treexml.tmpl script 远程代码执行漏洞](https://github.com/tangxiaofeng7/Landray-OA-Treexml-Rce)
 
-[蓝凌OA的前后台密码的加解密工具](https://github.com/zhutougg/LandrayDES)
 
 ## 联软准入系统
 
