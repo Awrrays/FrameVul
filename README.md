@@ -1033,6 +1033,9 @@ app="海洋CMS"
 
 [Weblogic一键漏洞检测工具，V1.5，更新时间：20200730](https://github.com/rabbitmask/WeblogicScan)
 
+[About
+WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）](https://github.com/KimJun1010/WeblogicTool)
+
 ## Webmin
 
 [KrE80r/webmin_cve-2019-12840_poc](https://github.com/KrE80r/webmin_cve-2019-12840_poc)
