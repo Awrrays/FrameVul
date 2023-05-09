@@ -369,6 +369,10 @@ https://github.com/mpgn/CVE-2019-0192/
 
 [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)
 
+## Apache SuperSet
+
+[CVE-2023-27524 的基本 PoC：Apache Superset 中的不安全默认配置](https://github.com/horizon3ai/CVE-2023-27524)
+
 ## Big-IP
 
 [BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388](https://github.com/TomArni680/CVE-2022-1388-POC)
