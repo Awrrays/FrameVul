@@ -540,6 +540,7 @@ https://blog.csdn.net/u013613428/article/details/121884479
 ## Fastadmin
 
 [fastadmin最新版前台getshell漏洞](https://mp.weixin.qq.com/s/XR6p6sf3__QtpMjJuJEjfA)
+[fastadmin文件管理插件](https://github.com/WenchaoLin/Filex)
 
 ## FastJson
 
