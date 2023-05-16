@@ -1040,6 +1040,8 @@ app="海洋CMS"
 
 [VMware vCenter漏洞实战利用总结](https://www.ctfiot.com/39518.html)
 
+[Vcenter实战利用方式总结](https://forum.butian.net/share/1893)
+
 ## Weblogic
 
 [weblogic t3 deserialization rce](https://github.com/5up3rc/weblogic_cmd)
