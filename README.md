@@ -533,6 +533,8 @@ https://blog.csdn.net/u013613428/article/details/121884479
 
 [利用NTLM Hash读取Exchange邮件](https://github.com/Ridter/GetMail)
 
+[Exchange渗透测试总结](https://www.anquanke.com/post/id/184342)
+
 ## ewebeditor
 
 [ewebeditor 编辑器漏洞总结](https://www.0dayhack.com/post-426.html)
@@ -916,6 +918,8 @@ app="海洋CMS"
 
 [基于springboot和spring security的Java web常见漏洞及安全代码](https://github.com/JoyChou93/java-sec-code)
 
+[SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list](https://github.com/LandGrey/SpringBootVulExploit)
+
 ## Struts2
 
 [Struts2全漏洞扫描利用工具](https://github.com/HatBoy/Struts2-Scan)
@@ -953,6 +957,10 @@ app="海洋CMS"
 [实战技巧|利用ThinkPHP5.X的BUG实现数据库信息泄露](https://mp.weixin.qq.com/s/B9jkF0e0SMTJ6r09Syy-8A)
 
 [thinkphp5 mysql账号密码泄露漏洞](https://mp.weixin.qq.com/s/R11Ha6ksbd7kslAuhyy73Q)
+
+[ThinkPHP使用不当可能造成敏感信息泄露](https://blog.csdn.net/Fly_hps/article/details/81201904)
+
+[https://mp.weixin.qq.com/s/1ZkiKqHogWOy0U4rQNnGtQ](https://mp.weixin.qq.com/s/1ZkiKqHogWOy0U4rQNnGtQ)
 
 日志泄露
 
@@ -1026,6 +1034,12 @@ app="海洋CMS"
 
 [从 vCenter 备份中提取 IdP 证书并以管理员身份登录的工具](https://github.com/horizon3ai/vcenter_saml_login)
 
+[Vcenter Server CVE-2021-21985 RCE PAYLOAD](https://iswin.org/2021/06/02/Vcenter-Server-CVE-2021-21985-RCE-PAYLOAD/)
+
+[CVE-2021-21985 (Vulnerable Code)](https://github.com/alt3kx/CVE-2021-21985_PoC)
+
+[VMware vCenter漏洞实战利用总结](https://www.ctfiot.com/39518.html)
+
 ## Weblogic
 
 [weblogic t3 deserialization rce](https://github.com/5up3rc/weblogic_cmd)
@@ -1040,6 +1054,8 @@ app="海洋CMS"
 
 [About
 WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）](https://github.com/KimJun1010/WeblogicTool)
+
+[CVE-2020-14882&CVE-2020-14883 Weblogic未授权远程命令执行漏洞](https://www.cnblogs.com/liliyuanshangcao/p/13962160.html)
 
 ## Webmin
 
