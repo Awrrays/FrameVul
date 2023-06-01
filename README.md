@@ -764,6 +764,8 @@ https://raw.githubusercontent.com/dwisiswant0/nuclei-templates/add/GHSL-2020-325
 
 [Nacos Client Yaml反序列化漏洞分析](https://xz.aliyun.com/t/10355)
 
+[Nacos密码碰撞](https://www.jisuan.mobi/nX7.html)
+
 ## NETGEAR ProSafe SSL VPN
 
 [NETGEAR ProSafe SSL VPN SQL 注入漏洞](https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383)
