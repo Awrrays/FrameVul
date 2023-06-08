@@ -566,6 +566,10 @@ https://blog.csdn.net/u013613428/article/details/121884479
 
 [Flask 内存马](https://github.com/iceyhexman/flask_memory_shell)
 
+## GeoServer
+
+[CVE-2023-25157 - GeoServer SQL 注入 - PoC](https://github.com/win3zz/CVE-2023-25157/)
+
 ## Gitlab
 
 [gitlab-version-nse](https://github.com/righel/gitlab-version-nse)
