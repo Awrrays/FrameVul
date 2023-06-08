@@ -13,6 +13,8 @@
 - [强化fscan的漏扫POC库](https://github.com/chaosec2021/fscan-POC)
 - [在渗透测试中快速检测常见中间件、组件的高危漏洞。](https://github.com/1120362990/vulnerability-list)
 - [OAExploit一款基于产品的一键扫描工具](https://github.com/achuna33/MYExploit)
+- [批量扫描破解海康威视、大华等摄像头的常见漏洞。](https://github.com/WhaleFell/CameraHack)
+- [网络摄像头漏洞检测脚本.Nmap (Nse Nmap script engine)](https://github.com/foggyspace/NsePocsuite-lua)
 
 ## 宝塔
 
@@ -599,6 +601,7 @@ https://www.youtube.com/watch?v=v8Isqy4yR3Q
 ## Hikvision
 
 [Hikvision 流媒体管理服务器敏感信息泄漏](https://github.com/Henry4E36/HikvisionInformation)
+[海康威视 CVE-2021-36260 RCE 漏洞](https://github.com/Cuerz/CVE-2021-36260)
 
 ## IIS
 
