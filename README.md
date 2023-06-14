@@ -795,6 +795,12 @@ https://raw.githubusercontent.com/dwisiswant0/nuclei-templates/add/GHSL-2020-325
 
 [carr0t2/nps-auth-bypass](https://github.com/carr0t2/nps-auth-bypass)
 
+## Openfire
+
+[后台插件getshell](https://github.com/22CB7139/openfire_shells)
+
+[openfire AES和Blowfish加解密工具](https://github.com/ca3tie1/OpenFireEncryptor)
+
 ## Oracle Access Manager
 
 [CVE-2021-35587 Oracle Access Manager 未经身份验证的攻击者漏洞 ](https://github.com/antx-code/CVE-2021-35587/blob/main/CVE-2021-35587.py)
