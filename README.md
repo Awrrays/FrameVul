@@ -1057,6 +1057,10 @@ app="海洋CMS"
 
 [Vcenter实战利用方式总结](https://forum.butian.net/share/1893)
 
+## VMware VRealize Network Insight
+
+[VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)](https://github.com/sinsinology/CVE-2023-20887)
+
 ## Weblogic
 
 [weblogic t3 deserialization rce](https://github.com/5up3rc/weblogic_cmd)
