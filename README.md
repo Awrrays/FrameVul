@@ -883,6 +883,8 @@ app="海洋CMS"
 
 [shiro 反序列 命令执行辅助检测工具](https://github.com/wyzxxz/shiro_rce_tool)
 
+[burp插件 ShiroScan 主要用于框架、无dnslog key检测](https://github.com/Daybr4ak/ShiroScan)
+
 ## ShopXO
 
 [ShopXO download 任意文件读取漏洞 CNVD-2021-15822](https://mp.weixin.qq.com/s/69cDWCDoVXRhehqaHPgYog)
