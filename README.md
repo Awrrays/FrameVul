@@ -70,6 +70,8 @@
 
 [bigsizeme/CNVD-2021-49104](https://github.com/bigsizeme/CNVD-2021-49104)
 
+[泛微oa漏洞利用工具](https://github.com/TD0U/WeaverScan)
+
 ## 帆软报表
 
 [帆软报表v8.0 Getshell漏洞分析](http://foreversong.cn/archives/1378)
