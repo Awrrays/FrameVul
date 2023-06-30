@@ -73,6 +73,8 @@
 
 [泛微oa漏洞利用工具](https://github.com/TD0U/WeaverScan)
 
+[组合利用泛微信息泄漏漏洞和任意用户登录漏洞，可获取全部loginId并测试登录](https://github.com/A0WaQ4/Weaver_ofslogin_vul)
+
 ## 帆软报表
 
 [帆软报表v8.0 Getshell漏洞分析](http://foreversong.cn/archives/1378)
