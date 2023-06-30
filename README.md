@@ -616,6 +616,8 @@ https://www.youtube.com/watch?v=v8Isqy4yR3Q
 [Hikvision 流媒体管理服务器敏感信息泄漏](https://github.com/Henry4E36/HikvisionInformation)
 [海康威视 CVE-2021-36260 RCE 漏洞](https://github.com/Cuerz/CVE-2021-36260)
 
+[海康威视综合安防平台后渗透利用工具](https://github.com/wafinfo/Hikvision)
+
 ## IIS
 
 [多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
@@ -781,6 +783,8 @@ https://raw.githubusercontent.com/dwisiswant0/nuclei-templates/add/GHSL-2020-325
 [Nacos Client Yaml反序列化漏洞分析](https://xz.aliyun.com/t/10355)
 
 [Nacos密码碰撞](https://www.jisuan.mobi/nX7.html)
+
+[Nacos Hessian 反序列化漏洞利用工具](https://github.com/c0olw/NacosRce)
 
 ## NETGEAR ProSafe SSL VPN
 
