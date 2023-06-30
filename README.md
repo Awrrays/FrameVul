@@ -15,6 +15,7 @@
 - [OAExploit一款基于产品的一键扫描工具](https://github.com/achuna33/MYExploit)
 - [批量扫描破解海康威视、大华等摄像头的常见漏洞。](https://github.com/WhaleFell/CameraHack)
 - [网络摄像头漏洞检测脚本.Nmap (Nse Nmap script engine)](https://github.com/foggyspace/NsePocsuite-lua)
+- [网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool](https://github.com/jorhelp/Ingram)
 
 ## 宝塔
 
