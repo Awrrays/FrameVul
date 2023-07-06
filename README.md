@@ -218,6 +218,8 @@ uid=15&status=1&id=1;select sleep(4)
 
 ## 致远OA
 
+[致远OA管理员密码的重置](https://blog.csdn.net/qq_33064191/article/details/119921106)
+
 [数据库Pass解密](https://github.com/Rvn0xsy/PassDecode-jar)
 
 [Seeyon A8 登录hash破解案例](https://www.hedysx.com/2807.html)
