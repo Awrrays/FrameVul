@@ -186,6 +186,10 @@ Content-Type: application/x-www-form-urlencoded
 uid=15&status=1&id=1;select sleep(4)
 ```
 
+[某知名OA高版本getshell思路（附部分脚本）](https://mp.weixin.qq.com/s/HU-KxA75PR3u47QOqKWktQ)
+
+[通达OA v11.10 sql注入漏洞复现](https://www.yulate.com/303.html)
+
 ## 万户OA
 
 - [户OA smartUpload.jsp 任意文件上传漏洞](https://anpaini.com/2022/OA产品漏洞/万户OA%20smartUpload.jsp%20任意文件上传漏洞/)
