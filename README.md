@@ -902,6 +902,10 @@ https://raw.githubusercontent.com/dwisiswant0/nuclei-templates/add/GHSL-2020-325
 
 [ 一个玩 Outlook 的小工具](https://github.com/eksperience/KnockOutlook)
 
+## Panalog 日志审计系统
+
+[panalog日志审计系统任意用户创建漏洞和后台命令执行](https://mp.weixin.qq.com/s/98kn5ry-C-IeKY2MDebjLw)
+
 ## PHPMailer
 
 [PHPMailer 任意文件读取漏洞](https://mp.weixin.qq.com/s/y7N3CD1683W2WX-naT5HCA)
