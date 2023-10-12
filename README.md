@@ -482,6 +482,8 @@ https://github.com/mpgn/CVE-2019-0192/
 
 ## Confluence
 
+[Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具](https://github.com/ad-calcium/CVE-2023-22515)
+
 [CVE-2022-26134 概念证明](https://github.com/jbaines-r7/through_the_wire)
 
 [CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)
