@@ -770,6 +770,8 @@ https://github.com/vulhub/vulhub/blob/master/jetty/CVE-2021-28164/README.zh-cn.m
 
 [Jumpserver安全一窥：Sep系列漏洞深度解析](https://mp.weixin.qq.com/s/3iAn_aUNg8k5qW34Yb21Bw)
 
+[JumpServer 密码重置漏洞](https://github.com/C1ph3rX13/CVE-2023-42820)
+
 ## Kindeditor
 
 [kindeditor<=4.1.5上传漏洞复现](https://www.cnblogs.com/backlion/p/10421405.html)
