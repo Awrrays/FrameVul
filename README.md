@@ -776,6 +776,8 @@ https://github.com/vulhub/vulhub/blob/master/jetty/CVE-2021-28164/README.zh-cn.m
 
 [JumpServer 密码重置漏洞](https://github.com/C1ph3rX13/CVE-2023-42820)
 
+[JumpServer 任意文件写入漏洞 CVE-2023-42819 + CVE-2023-42820 = GetShell](https://github.com/C1ph3rX13/CVE-2023-42819)
+
 ## Kindeditor
 
 [kindeditor<=4.1.5上传漏洞复现](https://www.cnblogs.com/backlion/p/10421405.html)
