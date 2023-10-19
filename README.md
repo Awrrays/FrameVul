@@ -107,6 +107,10 @@
 
 [金盘 微信管理平台 getsysteminfo 未授权访问漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E9%87%91%E7%9B%98/%E9%87%91%E7%9B%98%20%E5%BE%AE%E4%BF%A1%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%20getsysteminfo%20%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E.html)
 
+## 金山终端安全系统
+
+[金山终端安全系统V9.0SQL注入漏洞](https://github.com/luck-ying/Library-POC/blob/40f8d4051a239ac9b49c77ea0152c394e8b38acb/%E9%87%91%E5%B1%B1%E7%BB%88%E7%AB%AF%E5%AE%89%E5%85%A8%E7%B3%BB%E7%BB%9F/%E9%87%91%E5%B1%B1%E7%BB%88%E7%AB%AF%E5%AE%89%E5%85%A8%E7%B3%BB%E7%BB%9FV9.0SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.py)
+
 ## 蓝凌OA
 
 [yuanhaiGreg/LandrayExploit](https://github.com/yuanhaiGreg/LandrayExploit)
