@@ -310,6 +310,8 @@ uid=15&status=1&id=1;select sleep(4)
 
 [致远 OA FastJson rce 回显](https://96.mk/2021/07/10/19.html)
 
+[致远oa xxe getshell分析(附脚本)](https://mp.weixin.qq.com/s/efuMlGrjYsUjP7nP3W2F4w)
+
 ## 74CMS
 
 [骑士 CMS 6.0.48以下文件包含getshell](https://mp.weixin.qq.com/s/erBzIapx1bz8f1ArWwwBwQ)
