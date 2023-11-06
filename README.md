@@ -103,6 +103,10 @@
 
 [CVE-2021-45897 全球最大CRM系统SuiteCRM远程命令执行漏洞分析与复现](https://mp.weixin.qq.com/s/KVVgiECEr7ivBfXnByi5RQ)
 
+## 金蝶云星空
+
+[金蝶云星空任意文件上传漏洞](https://blog.csdn.net/qq_41904294/article/details/134204734)
+
 ## 金盘 微信管理平台
 
 [金盘 微信管理平台 getsysteminfo 未授权访问漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E9%87%91%E7%9B%98/%E9%87%91%E7%9B%98%20%E5%BE%AE%E4%BF%A1%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%20getsysteminfo%20%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E.html)
@@ -122,6 +126,8 @@
 [蓝某OA前台SSRF进一步利用到RCE](https://mp.weixin.qq.com/s/fNovp4mbKIMkVdF2ywcQcQ)
 
 [蓝凌 OA treexml.tmpl script 远程代码执行漏洞](https://github.com/tangxiaofeng7/Landray-OA-Treexml-Rce)
+
+[蓝凌EIS saveIm文件上传](https://github.com/MzzdToT/HAC_Bored_Writing/blob/main/Fileupload/%E8%93%9D%E5%87%8CEIS/EIS_upload.py)
 
 
 ## 联软准入系统
@@ -347,6 +353,8 @@ uid=15&status=1&id=1;select sleep(4)
 [ActiveMQ 反序列化漏洞 (CVE-2015-5254)](https://github.com/vulhub/vulhub/blob/master/activemq/CVE-2015-5254/README.zh-cn.md)
 
 [ActiveMQ任意文件写入漏洞 (CVE-2016-3088)](https://github.com/vulhub/vulhub/blob/master/activemq/CVE-2016-3088/README.zh-cn.md)
+
+[ActiveMQ RCE](https://github.com/trganda/ActiveMQ-RCE)
 
 ## Apache Airflow
 
@@ -1218,6 +1226,10 @@ WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内�
 ## Wso2
 
 [WSO2 RCE (CVE-2022-29464) 漏洞利用](https://github.com/hakivvi/CVE-2022-29464)
+
+## XXL-JOB
+
+[XXL-JOB 默认 accessToken 身份绕过漏洞](https://blog.csdn.net/qq_41904294/article/details/134201486)
 
 ## Yii
 
