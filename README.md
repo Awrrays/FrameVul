@@ -83,6 +83,8 @@
 
 [组合利用泛微信息泄漏漏洞和任意用户登录漏洞，可获取全部loginId并测试登录](https://github.com/A0WaQ4/Weaver_ofslogin_vul)
 
+[泛微移动管理平台E-mobile lang2sql接口存在任意文件上传](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247484476&idx=1&sn=2eeef68570e6ab7d8a2789e07b8609ad)
+
 ## 帆软报表
 
 [帆软报表v8.0 Getshell漏洞分析](http://foreversong.cn/archives/1378)
