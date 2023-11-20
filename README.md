@@ -264,11 +264,11 @@ uid=15&status=1&id=1;select sleep(4)
 
 [kezibei/yongyou_nc_poc](https://github.com/kezibei/yongyou_nc_poc)
 
-[用友GRP-U8行政事业财务管理软件 SQL注入 CNNVD-201610-923](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/用友OA/用友GRP-U8行政事业财务管理软件 SQL注入 CNNVD-201610-923.html)
+[用友GRP-U8行政事业财务管理软件 SQL注入 CNNVD-201610-923](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/用友OA/用友GRP-U8行政事业财务管理软件%20SQL注入%20CNNVD-201610-923.html)
 
 [用友NC反序列化漏洞简单记录（DeleteServlet、XbrlPersistenceServlet等）](https://www.jianshu.com/p/14449a6edd05)
 
-[用友 NC XbrlPersistenceServlet反序列化](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/用友OA/用友 NC XbrlPersistenceServlet反序列化.html)
+[用友 NC XbrlPersistenceServlet反序列化](http://wiki.peiqi.tech/PeiQi_Wiki/OA产品漏洞/用友OA/用友%20NC%20XbrlPersistenceServlet反序列化.html)
 
 [某C 1day 反序列化漏洞的武器级利用](https://mp.weixin.qq.com/s/IdXYbjNVGVIasuwQH48Q1w)
 
