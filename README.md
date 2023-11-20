@@ -109,6 +109,8 @@
 
 [金蝶云星空任意文件上传漏洞](https://blog.csdn.net/qq_41904294/article/details/134204734)
 
+[金蝶云星空管理中心 ScpSupRegHandler接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247484562&idx=1&sn=fdd093b972b20fc842b110ac1cec75db)
+
 ## 金盘 微信管理平台
 
 [金盘 微信管理平台 getsysteminfo 未授权访问漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E9%87%91%E7%9B%98/%E9%87%91%E7%9B%98%20%E5%BE%AE%E4%BF%A1%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%20getsysteminfo%20%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E.html)
@@ -286,6 +288,14 @@ uid=15&status=1&id=1;select sleep(4)
 
 [用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件上传漏洞](https://peiqi.wgpsec.org/wiki/oa/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8B%20U8%20CRM%E5%AE%A2%E6%88%B7%E5%85%B3%E7%B3%BB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20getemaildata.php%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.html)
 
+## 用友U8Cloud
+
+[[在野漏洞]用友U8-cloud SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247483833&idx=1&sn=ff942057f579b746a56cd799c81f5064)
+
+## 用友GRP
+
+[用友GRP xxe getshell分析(附exp)](https://mp.weixin.qq.com/s?__biz=MzkxNjQyMjcwMw==&mid=2247485270&idx=1&sn=6d10fa9d349c3104bf317c5849e9f299)
+
 ## 致远OA
 
 [致远OA管理员密码的重置](https://blog.csdn.net/qq_33064191/article/details/119921106)
@@ -326,6 +336,8 @@ uid=15&status=1&id=1;select sleep(4)
 
 [浙大恩特CRM文件上传(梅开二度)](https://mp.weixin.qq.com/s/TUICrxb3HjTBxe175hI7Fg)
 
+[【紧急警告】某大科恩CMR 0day](https://mp.weixin.qq.com/s?__biz=MzkxMDYwNDI0MA==&mid=2247483841&idx=1&sn=9e29324912fa755f24265ce0d6446e84)
+
 ## 74CMS
 
 [骑士 CMS 6.0.48以下文件包含getshell](https://mp.weixin.qq.com/s/erBzIapx1bz8f1ArWwwBwQ)
@@ -363,6 +375,8 @@ uid=15&status=1&id=1;select sleep(4)
 [ActiveMQ任意文件写入漏洞 (CVE-2016-3088)](https://github.com/vulhub/vulhub/blob/master/activemq/CVE-2016-3088/README.zh-cn.md)
 
 [ActiveMQ RCE](https://github.com/trganda/ActiveMQ-RCE)
+
+[CVE-2023-46604 之 ActiveMQ RCE 漏洞验证/利用工具](https://mp.weixin.qq.com/s?__biz=Mzk0NjQ5MTM1MA==&mid=2247485403&idx=2&sn=0cdcd266b4761c8ee0ff57bb0b399b08)
 
 ## Apache Airflow
 
@@ -1095,6 +1109,8 @@ app="海洋CMS"
 ## ThinkAdmin
 
 [ThinkAdminV6 未授权访问and 任意文件查看 漏洞复现](https://blog.csdn.net/Adminxe/article/details/108744912)
+
+[thinkAdmin框架0day](https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MzY0MA==&mid=2247485677&idx=1&sn=3c2ae67b8958a0325701139210dd58e8)
 
 ## ThinkCMF
 
