@@ -324,6 +324,8 @@ uid=15&status=1&id=1;select sleep(4)
 
 [浙大恩特客户资源管理系统fileupload.jsp文件上传](https://mp.weixin.qq.com/s/8BpPzi_7SfJWEQG5N988Mg)
 
+[浙大恩特CRM文件上传(梅开二度)](https://mp.weixin.qq.com/s/TUICrxb3HjTBxe175hI7Fg)
+
 ## 74CMS
 
 [骑士 CMS 6.0.48以下文件包含getshell](https://mp.weixin.qq.com/s/erBzIapx1bz8f1ArWwwBwQ)
