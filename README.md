@@ -97,6 +97,8 @@
 
 [飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E9%A3%9E%E4%BC%81%E4%BA%92%E8%81%94/%E9%A3%9E%E4%BC%81%E4%BA%92%E8%81%94%20FE%E4%B8%9A%E5%8A%A1%E5%8D%8F%E4%BD%9C%E5%B9%B3%E5%8F%B0%20ShowImageServlet%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.html)
 
+[飞*互联登录绕过代码分析](https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487275&idx=1&sn=4031748decc2d11fdffea2650ddaa1b0)
+
 ## 汉得SRM
 
 [汉得SRM tomcat.jsp 登陆绕过漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E6%B1%89%E5%BE%97/%E6%B1%89%E5%BE%97SRM%20tomcat.jsp%20%E7%99%BB%E9%99%86%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E.html)
@@ -329,6 +331,8 @@ uid=15&status=1&id=1;select sleep(4)
 [致远 OA FastJson rce 回显](https://96.mk/2021/07/10/19.html)
 
 [致远oa xxe getshell分析(附脚本)](https://mp.weixin.qq.com/s/efuMlGrjYsUjP7nP3W2F4w)
+
+[某远M3 前台远程代码执行漏洞](https://xz.aliyun.com/t/13078)
 
 ## 浙大恩特客户资源管理系统
 
@@ -1258,6 +1262,8 @@ WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内�
 ## XXL-JOB
 
 [XXL-JOB 默认 accessToken 身份绕过漏洞](https://blog.csdn.net/qq_41904294/article/details/134201486)
+
+[XXL-JOB 深度利用](https://mp.weixin.qq.com/s?__biz=MzkyNzYxMDQ2MQ==&mid=2247483934&idx=1&sn=2de580591b3a2a850560ffa6e62b4d01)
 
 ## Yii
 
