@@ -255,6 +255,7 @@ uid=15&status=1&id=1;select sleep(4)
 ## 万户OA
 
 - [户OA smartUpload.jsp 任意文件上传漏洞](https://anpaini.com/2022/OA产品漏洞/万户OA%20smartUpload.jsp%20任意文件上传漏洞/)
+- [万户OA upload任意文件上传漏洞复现](https://blog.csdn.net/qq_41904294/article/details/134515628)
 
 ## 信呼 OA
 
