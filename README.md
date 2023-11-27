@@ -334,6 +334,8 @@ uid=15&status=1&id=1;select sleep(4)
 
 [某远M3 前台远程代码执行漏洞](https://xz.aliyun.com/t/13078)
 
+[致远M3-server反序列化RCE漏洞复现（附POC）](https://mp.weixin.qq.com/s?__biz=MzU1ODQ2NTY3Ng==&mid=2247484745&idx=1&sn=98c5d18f55ff883a186ce0a5527c2c64)
+
 ## 浙大恩特客户资源管理系统
 
 [浙大恩特客户资源管理系统fileupload.jsp文件上传](https://mp.weixin.qq.com/s/8BpPzi_7SfJWEQG5N988Mg)
