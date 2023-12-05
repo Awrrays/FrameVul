@@ -743,6 +743,10 @@ https://www.youtube.com/watch?v=v8Isqy4yR3Q
 
 [edwardz246003/IIS_exploit](https://github.com/edwardz246003/IIS_exploit)
 
+## I Doc View 在线文档预览系统
+
+[【漏洞复现】I Doc View 在线文档预览系统远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNTU5NjM5MQ==&mid=2247484409&idx=1&sn=ec6b363cbab59af3e323b3c18425b017&chksm=c15df6f1f62a7fe7ef6538e339eb29b59aa313a9e4c85f06482104f535ccc22fdcf83bbd2ef5&scene=126&sessionid=1701682077&key=1afad7311c1000c6326803e9993c3c3655685ec951d2506e5c3879b5677aaf2e6458039c2819a39d8ae10924fb7bc3801ac1eef39a661e9fa79211b8ba2fdfa2c640b23a6b917d9e431bc0f625f47fe16e7dcaa1d68152df42bed5848fd2efb0eda64c3b2a6765a3feb931a321c5edb2911a15b1e201ed23c21536122e4cb91f&ascene=15&uin=MzgxODQ4MjMz&devicetype=Windows+10+x64&version=63060012&lang=zh_CN&session_us=gh_c63b035bdde2&countrycode=GY&exportkey=n_ChQIAhIQ7Q315IOTslTK%2FxQwXGrc8RLmAQIE97dBBAEAAAAAAGIzN77M9Z8AAAAOpnltbLcz9gKNyK89dVj0u9EpNejbnNVOqEwJ4P6GYsvS0ML6oYIp1QqiHaFhhv%2FiWbMiN5JeGmU4kXOZzLVgs5F5lGq6Ld7BddxZK1XubANs13KMx3EV6BxC9PkDAobbJnFHhnB08kTxP%2F6r1jkRhFNUiEgGZoc%2BZWIVIyNXOX2NlJKwXjUMkuMi8PiN%2BPqU3zpfOqydlt%2F1IQlxoESqgm72uT8gP05hHQHf0UQmGlmiJcvcu7HumCvC0MA%2FpSugSDM7ch1bWlFQNDC1cwee&acctmode=0&pass_ticket=A4qxtGK0O4LeaDLKYYXNijQqeFho03G%2B90v3l9RyysEVcEcvjTMQ8cVu%2FWiZLpAuvaj7W%2BgV1ofOSy%2FnY1C2Gg%3D%3D&wx_header=0&fontgear=2)
+
 ## IP-Guard
 
 [【漏洞复现】IP-guard WebServer 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247486971&idx=1&sn=11a6cbd4db9a45976beb39fe613a3010)
