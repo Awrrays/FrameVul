@@ -21,6 +21,10 @@
 
 [1Panel loadfile 后台文件读取漏洞](https://peiqi.wgpsec.org/wiki/webapp/1Panel/1Panel%20loadfile%20%E5%90%8E%E5%8F%B0%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.html)
 
+## 昂捷ERP
+
+[昂捷ERP多处接口存在SQL注入（0day）](https://mp.weixin.qq.com/s/r-m73kfEOgq93LP1t0fXoA)
+
 ## 宝塔
 
 [宝塔面板Windows版提权方法](https://github.com/Hzllaga/BT_Panel_Privilege_Escalation) 
