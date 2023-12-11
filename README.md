@@ -21,6 +21,10 @@
 
 [1Panel loadfile 后台文件读取漏洞](https://peiqi.wgpsec.org/wiki/webapp/1Panel/1Panel%20loadfile%20%E5%90%8E%E5%8F%B0%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.html)
 
+## 奥威亚视频云平台
+
+[奥威亚视频云平台VideoCover.aspx接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247484789&idx=1&sn=7a1fb2328cb346e2651bea73ba7b37b5)
+
 ## 昂捷ERP
 
 [昂捷ERP多处接口存在SQL注入（0day）](https://mp.weixin.qq.com/s/r-m73kfEOgq93LP1t0fXoA)
@@ -30,6 +34,10 @@
 [宝塔面板Windows版提权方法](https://github.com/Hzllaga/BT_Panel_Privilege_Escalation) 
 
 [宝塔linux面板 <6.0 存储形xss](https://mp.weixin.qq.com/s/gtYyyhye90ZPILWCGsGKGQ)
+
+## 百卓网络Smart
+
+[百卓网络Smart S20文件上传漏洞](https://github.com/flyyue2001/cve/blob/main/smart_sql_updateos.md)
 
 ## 辰信领创
 
@@ -102,6 +110,10 @@
 [飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E9%A3%9E%E4%BC%81%E4%BA%92%E8%81%94/%E9%A3%9E%E4%BC%81%E4%BA%92%E8%81%94%20FE%E4%B8%9A%E5%8A%A1%E5%8D%8F%E4%BD%9C%E5%B9%B3%E5%8F%B0%20ShowImageServlet%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.html)
 
 [飞*互联登录绕过代码分析](https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487275&idx=1&sn=4031748decc2d11fdffea2650ddaa1b0)
+
+## 好视通-视频会议
+
+[某某通视频会议存在任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkwODMzOTA2NA==&mid=2247492873&idx=1&sn=6e9798e0a06b1cf92cb669c2178a13e1)
 
 ## 汉得SRM
 
@@ -264,6 +276,10 @@ uid=15&status=1&id=1;select sleep(4)
 ## 信呼 OA
 
 [信呼OA存储型XSS 0day复现](https://xz.aliyun.com/t/7887)
+
+## 云时空社会化商业ERP系统
+
+[云时空社会化商业ERP系统gpy任意文件上传漏洞RCE](https://mp.weixin.qq.com/s?__biz=MzkyOTQ1MjQwMw==&mid=2247483863&idx=1&sn=fca9ddbb361c88112279929d5c25065b)
 
 ## 用友NC
 
