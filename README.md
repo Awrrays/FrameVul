@@ -753,6 +753,10 @@ https://www.youtube.com/watch?v=v8Isqy4yR3Q
 
 [HiKVISION 综合安防管理平台 env 信息泄漏漏洞](https://peiqi.wgpsec.org/wiki/iot/HIKVISION/HiKVISION%20%E7%BB%BC%E5%90%88%E5%AE%89%E9%98%B2%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%20env%20%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F%E6%BC%8F%E6%B4%9E.html)
 
+## 海康威视IP网络对讲广播系统
+
+[【漏洞复现】海康威视IP网络对讲广播系统存在命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247485360&idx=1&sn=aea143927b6bd96689f5d435bfb8df6c)
+
 ## IIS
 
 [多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
@@ -970,6 +974,8 @@ https://raw.githubusercontent.com/dwisiswant0/nuclei-templates/add/GHSL-2020-325
 [后台插件getshell](https://github.com/22CB7139/openfire_shells)
 
 [openfire AES和Blowfish加解密工具](https://github.com/ca3tie1/OpenFireEncryptor)
+
+[『漏洞复现』记 Openfire 身份认证绕过漏洞导致 RCE](https://mp.weixin.qq.com/s?__biz=Mzg4NTA0MzgxNQ==&mid=2247488691&idx=1&sn=60271069ce409bb3d3198df6a265b44b)
 
 ## Oracle Access Manager
 
