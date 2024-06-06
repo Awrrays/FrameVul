@@ -753,6 +753,8 @@ https://www.youtube.com/watch?v=v8Isqy4yR3Q
 
 [HiKVISION 综合安防管理平台 env 信息泄漏漏洞](https://peiqi.wgpsec.org/wiki/iot/HIKVISION/HiKVISION%20%E7%BB%BC%E5%90%88%E5%AE%89%E9%98%B2%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%20env%20%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F%E6%BC%8F%E6%B4%9E.html)
 
+[综合安防管理平台 _svm_api_v1_productFile 远程命令执行](https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247505219&idx=1&sn=f48d189da00e2f7040a3b62de580d8c1)
+
 ## 海康威视IP网络对讲广播系统
 
 [【漏洞复现】海康威视IP网络对讲广播系统存在命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247485360&idx=1&sn=aea143927b6bd96689f5d435bfb8df6c)
