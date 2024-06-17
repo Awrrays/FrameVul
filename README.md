@@ -160,6 +160,10 @@
 
 [绿盟 NF下一代防火墙 任意文件上传漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E7%BB%BF%E7%9B%9F/%E7%BB%BF%E7%9B%9F%20NF%E4%B8%8B%E4%B8%80%E4%BB%A3%E9%98%B2%E7%81%AB%E5%A2%99%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.html)
 
+## 契约锁
+
+[漏洞利用：某某锁代码执行漏洞实战注入内存马](https://1oecho.github.io/oYmYrVh51/)
+
 ## 企望制造 ERP
 
 [企望制造 ERP comboxstore.action 远程命令执行漏洞](https://peiqi.wgpsec.org/wiki/webapp/%E4%BC%81%E6%9C%9B/%E4%BC%81%E6%9C%9B%E5%88%B6%E9%80%A0%20ERP%20comboxstore.action%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.html)
