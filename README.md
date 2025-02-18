@@ -1304,6 +1304,8 @@ WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内�
 
 [XXL-JOB 深度利用](https://mp.weixin.qq.com/s?__biz=MzkyNzYxMDQ2MQ==&mid=2247483934&idx=1&sn=2de580591b3a2a850560ffa6e62b4d01)
 
+[xxl-job最新漏洞利用工具](https://github.com/charonlight/xxl-jobExploitGUI)
+
 ## Yii
 
 [CVE-2020-15148 Yii2反序列化RCE POP链分析](https://mp.weixin.qq.com/s/NHBpF446yKQbRTiNQr8ztA)
